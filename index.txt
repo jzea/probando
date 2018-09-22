@@ -3,3 +3,5 @@
 primera funcionalidad release
 
 master solo estooo
+
+mas funciones
